@@ -2,9 +2,9 @@
 fontsize: 12pt
 ---
 
-# Problem Solution Essay Draft 2
+# Problem Solution Essay Draft 3
 
-*(Draft 2)*
+*(Draft 3)*
 
 by Jeremy Heng (A0146789H)
 
@@ -46,10 +46,11 @@ According to an analysis of Donald Trump's proposal for American protectionism
 by Moore and Kudlow (2015), 'immigrants fill niches in the labor market that
 natives can't or won't fill'. Thus, some outsourced or immigrant labour actually
 adds to the overall productivity and can further contribute to the creation of
-new jobs with fresh businesses developments. Additionally, in 2002, President
-George W. Bush placed tariffs on foreign steel to protect the local steel
-industry. (The Economist, 2002). Instead of resurrecting the dying steel
-industry, the policies reduced local steel production, raised costs, and
+new jobs with fresh businesses developments.
+
+In 2002, President George W. Bush placed tariffs on foreign steel to protect the
+local steel industry. (The Economist, 2002). Instead of resurrecting the dying
+steel industry, the policies reduced local steel production, raised costs, and
 exacerbated the unemployment rate. Admittedly, this solution does not adequately
 address the people who live below the poverty line as it only addresses
 unemployment. The wage gap still exists between the wealthy and the poor.
@@ -61,32 +62,36 @@ Protectionist legislature is often used as a political tool and is often in
 opposition to the interests of non-target companies. In the cited steel tariffs
 case, President Bush implemented the policies as a reaction to a voter base
 angry at the decaying American steel industry. Companies that relied on steel
-for manufacturing now had to purchase the commodity at an increased cost.
+for manufacturing now had to purchase the commodity at an increased cost. In
+response, these companies started to cut jobs and sought to work around the
+tariff by importing steel from non-tariffed countries such as Japan.
 
+This essay suggests that companies should work towards defending globalisation
+from this hostile legislation by taking the the initiative to implement
+socially responsible policies that ensure that the working class are treated
+fairly. Corporate social responsibility (CSR) is a voluntary initiative
+undertaken by companies to reduce the negative impacts of their operations on
+society. This is relevant to reducing the increasing unemployment rates
+outsourcing is causing in developed countries. Grassroots initiatives may help
+key managerial staff understand the issues faced by the working class and guide
+the creation of progressive policies. For example, re-training programs can
+improve the hireability of employees who are retrenched. Sutter (2013) cites
+Michael Norton, a Harvard professor as evidence that the breaking down of social
+barriers between the rich and poor can spark the development of mutually
+beneficial policies. With the adoption of CSR, corporations may pre-empt any
+political unrest by softening the blow to the working class.
 
-
-
-Companies should work
-towards defending globalisation from hostile legislation by implementing
-socially responsible policies that ensure society as a whole benefits. Corporate
-social responsibility is a voluntary initiative undertaken by companies to
-reduce the negative impacts of their operations on society. This is relevant to
-reducing the increasing unemployment rates outsourcing is causing in developed
-countries. Grassroots initiatives may help key managerial staff understand the
-issues faced by the working class and guide the creation of progressive
-policies. For example, re-training programs can improve the hireability of
-employees who are retrenched. Sutter (2013) cites Michael Norton, a Harvard
-professor as evidence that the breaking down of social barriers between the rich
-and poor can spark the development of mutually beneficial policies. An issue
-with this approach is that most companies adopt corporate social responsibility
-only for the marketing benefits. Regulation on the part of governments for
-corporations to adopt such policies might also be opposed to the goals of a
-profit-making organisation. Nevertheless, corporations that participate in
-globalisation must be aware of their corporate social responsibilities and seek
-to implement policies that help cushion the adverse impacts of their actions.
-This acts as a means of closing the income gap by preventing the working class
-from descending into poverty as well as protect globalisation from protectionist
-policies implemented by governments in reaction to angry voters.
+An issue with CSR is that most companies only adopt corporate social
+responsibility solely for the marketing benefits. According to Zhu (2013), the
+influential economist Milton Friedman asserted in 1970 that the free enterprise
+system depends only on the profit-driven motivations of capitalism. Regulation
+on the part of governments for corporations to adopt such policies are in direct
+conflict to such an organisation. Nevertheless, corporations that participate in
+globalisation must be aware of their CSR and seek to implement policies that
+help cushion the adverse impacts of their actions. This acts as a means of
+closing the income gap by preventing the working class from descending into
+poverty as well as protect globalisation from protectionist policies implemented
+by governments in reaction to angry voters.
 
 Globalisation has introduced the concept of outsourcing: the export of labour
 requirements to developing foreign countries. This creates an unemployment
@@ -141,4 +146,6 @@ Retrieved February 10, 2016, from http://www.economist.com/node/8554819
 Protectionism Is the Solution | Economy In Crisis. Retrieved February 10, 2016,
 from http://economyincrisis.org/content/outsourcing-problem-protectionism-solution
 
-
+\hangindent=0.7cm Zhu W., (2013, September 13). Research on Offshore Service
+Outsourcing and the Related Issue of Corporate Social Responsibility. Journal of
+Applied Sciences, 13: 1220-1226.
